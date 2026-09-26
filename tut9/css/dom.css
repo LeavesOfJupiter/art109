@@ -1,0 +1,42 @@
+
+  body {
+    background-color: var(--bg);
+    color: var(--font);
+    font-family: 'Courier New', Courier, monospace;
+  }
+
+  a:link {
+    color: crimson;
+
+
+  }
+
+  a:visited {
+
+    color: gold;
+  }
+
+  :root {
+
+    --bg: #ffffff;
+    --font: #000000;
+  }
+
+body.dark {
+
+    --bg: #000000;
+    --font: #ffffff;
+
+}
+
+img{ 
+
+    width: 20rem;
+
+}
+
+.hidden {
+    display: none;
+  }
+  
+
