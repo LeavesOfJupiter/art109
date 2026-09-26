@@ -2,13 +2,13 @@ console.log ("I still remember you.")
 console.log ("you're me, from before... right?")
 
 const header = document.querySelector("#h1");
-const changeHeaderButton = document.querySelector("#change-header-button")
+const changeHeaderButton = document.querySelector("#changebutton")
 const changeThemeButton = document.querySelector("#colorchange")
 const closed = document.querySelector("closed")
 const open = document.querySelector("open")
 
 changeHeaderButton.addEventListener("click",() => {
-    header.innerHTML = "you don't?";
+    head.innerHTML = "you don't?" ;
 })
 
 function changeButtonText(){
