@@ -1,0 +1,22 @@
+.title {
+    font-family: fantasy;
+}
+
+  .square{
+    background-color: bisque;
+    width: 200px;
+    height: 200px;
+    margin: 40px auto;
+    border-radius: 10px;
+  }
+.button-div{
+    text-align: center;
+}
+.button{
+    background-color: aqua;
+    color: darkblue;
+    padding: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    
+}
