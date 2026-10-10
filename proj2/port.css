@@ -1,1 +1,38 @@
-/* uhhhhh lemme be clear
+/* uhhhhh lemme be clear*/
+
+:root{
+    background-image: ;
+}
+
+.bigbox{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(255, 0, 0);
+    position: relative;
+    top: 75px;
+    left: 600px;
+    border-radius: 7px;
+    border-color: #000000;
+    border-width: 10px;
+}
+
+header{
+    text-align: center;
+    font-family: cursive;
+    font-size: 1.5rem;
+    background-color: black;
+    color: #ff0000;
+    padding: 20px;
+}
+nav{
+    
+    text-align: center;
+    background: #ff0000;
+    background: radial-gradient(circle, rgba(255, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 86%, rgba(0, 0, 0, 1) 100%);
+}
+
+a:link {
+    color: rgb(255, 255, 255);
+
+
+  }
