@@ -10,7 +10,7 @@
     background-color: rgb(255, 0, 0);
     position: relative;
     top: 75px;
-    left: 500px;
+    left: 450px;
     border-radius: 7px;
     border-color: #000000;
     border-width: 10px;
@@ -57,4 +57,9 @@ a:link {
 .embed-responsive-item{
     padding-left: 50px;       /* Adds spacing inside the outer frame */
  
+}
+
+.videoplayer{
+    padding-left: 65px; 
+    padding-top: 100px;
 }
