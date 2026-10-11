@@ -26,11 +26,26 @@ header{
     color: #ff0000;
     padding: 20px;
 }
+h2{
+    padding-top: 1.5rem;
+    color: #FFF;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    color: azure;
+}
 nav{
-    
+    padding: 10px;
     text-align: center;
     background: #ff0000;
     background: radial-gradient(circle, rgba(255, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 86%, rgba(0, 0, 0, 1) 100%);
+}
+footer{  
+text-align: center;
+background: #ff0000;
+background: radial-gradient(circle, rgba(255, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 86%, rgba(0, 0, 0, 1) 100%);
 }
 
 a:link {
